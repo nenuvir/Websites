@@ -178,13 +178,7 @@ width:200px;
 </div>
 <div id = "Container">
 <h1>Lorem ipsum </h1>
-<form action = "" method = "get">
-<div><label for="firstname">First name: 
-<input type="text" name = "firstname" id="firstname" /></label</div>
-<div><label for="lastname">Last name: 
-<input type="text" name = "lastname" id="lastname" /></label</div>
-<div><input type="submit" value="GO"/></div>
-</form>
+<?php echo "$output"; ?>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt iaculis orci ornare convallis. Donec sed interdum magna. Maecenas lobortis tellus ac dignissim vehicula. Nunc sit amet erat posuere, aliquet nulla vestibulum, fringilla ligula. Sed non neque non massa viverra sodales sit amet sed elit. Praesent augue ipsum, aliquet vel nulla eu, viverra laoreet massa. Phasellus ac magna felis.</p>
 
 <p>In sed ligula ac libero posuere pulvinar et auctor ipsum. Nunc ac odio velit. Duis condimentum gravida elementum. Vivamus iaculis augue quam, vitae luctus dolor scelerisque vel. Suspendisse cursus a risus vitae accumsan. Sed commodo pulvinar orci quis aliquet. Etiam viverra justo et ligula viverra viverra. Donec tempus sem tellus, nec laoreet nibh tempus vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras feugiat libero sed erat mollis, quis aliquam felis feugiat. Nam eu consequat lectus.</p>
